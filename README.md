@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋 I'm Gauransh Saini</h1>  
-<h2 align="center">A Passionate Software Developer from India</h2>  
-  
+<h2 align="center">A Passionate Software Developer from India</h2>
 <br>
+
 - 🌍 Explore **<a href="https://gauran.in">my portfolio</a>**.
   
 - 🤝 I’m eager to contribute to **open source projects**.
