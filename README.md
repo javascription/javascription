@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋 I'm Gauransh Saini</h1>  
-<h2 align="center">A Passionate Software Developer from India</h2>
+<h2 align="center" style="font-weight: bold">A Passionate Software Developer from India</h2>
 <br>
 
 - 🌍 Explore **<a href="https://gauran.in">my portfolio</a>**.
