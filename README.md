@@ -16,7 +16,7 @@
 
 -  ⚡ Reach out to me through **<a href="mailto:info@gauran.in">my email</a>**.
 
-  
+<br>
 <a href="https://www.github.com/javascription" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/javascription?label=Followers&style=for-the-badge&logo=github&labelColor=1c1917&color=0891b2" /></a>
 
