@@ -45,7 +45,7 @@ src="https://img.shields.io/github/followers/javascription?label=Followers&style
  <h2 align="left">Statistics</h2>  
 <p align="center"><img src="https://profile-readme-stats-javascription.vercel.app/api?username=javascription&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github" alt="javascription" /></p>  
 <p align="center"><img src="https://profile-readme-stats-javascription.vercel.app/api/top-langs/?username=javascription&theme=radical&layout=donut" alt="javascription" /></p>  
-<a align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=javascription&theme=radical&card_width=500" alt="GitHub Streak" /></a>
+<p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=javascription&theme=radical&hide_border=true)](https://git.io/streak-stats" alt="javascription" /></p>
 
 [![](https://visitcount.itsvg.in/api?id=gauranshsaini&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
