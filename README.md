@@ -40,7 +40,7 @@ src="https://img.shields.io/github/followers/javascription?label=Followers&style
 
 <h2 align="left">Trophies</h2>  
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javascription&theme=radical" alt="javascription" /></a> </p>  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javascription&theme=tokyonight" alt="javascription" /></a> </p>  
 
  
  <h2 align="left">Statistics</h2>  
