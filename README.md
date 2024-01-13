@@ -48,7 +48,7 @@ src="https://img.shields.io/github/followers/javascription?label=Followers&style
 <p align="center"><img src="https://profile-readme-stats-javascription.vercel.app/api/top-langs/?username=javascription&theme=radical&layout=donut" alt="javascription" /></p>  
 <p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=javascription&theme=radical&hide_border=true)](https://git.io/streak-stats" alt="javascription" /></p>
 
-[![](https://visitcount.itsvg.in/api?id=gauranshsaini&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=javascription&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <!---
 javascription/javascription is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
