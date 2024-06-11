@@ -43,7 +43,7 @@ src="https://img.shields.io/github/followers/javascription?label=Followers&style
 
 <section>
 
-## Miscellaneous
+<h2 align="left">Miscellaneous</h2> 
 <section align="center">
 <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
