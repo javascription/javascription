@@ -2,7 +2,7 @@
 <h2 align="center">A passionate developer from India</h2>  
   
   
-- 🌍 Explore **<a href="https://gauran.in">my portfolio</a>**.
+- 🌍 Explore **<a href="https://gauransh.vercel.app">my portfolio</a>**.
   
 - 🤝 I’m eager to contribute to **open source projects**.
 
