@@ -2,7 +2,7 @@
 <h2 align="center">A passionate Software Developer from India</h2>  
   
   
-- 🌍 Explore **<a href="https://gauran.in">my portfolio</a>**.
+- 🌍 Explore **<a href="https://gauransh.vercel.app" target="_blank">my portfolio</a>**.
   
 
 - 🚀 I'm currently working on  **[machine learning](https://www.tensorflow.org/).**
