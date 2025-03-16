@@ -36,7 +36,3 @@ src="https://img.shields.io/github/followers/javascription?label=Followers&style
 <p align="center"><img src="https://profile-readme-stats-javascription.vercel.app/api/top-langs/?username=javascription&theme=gruvbox&layout=compact&bg_color=00000000&card_width=560&" alt="javascription" /></p>  
   
 <p align ="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=javascription&theme=gruvbox&card_width=560&background=EB545400" alt="GitHub Streak" /></a></p>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=javascription&label=Profile%20Views&color=12&icon=2&pretty=true" />
-</a>
