@@ -30,4 +30,3 @@ src="https://img.shields.io/github/followers/javascription?label=Followers&style
  <h2 align="left">Statistics</h2>  
 <p align="center"><img src="https://profile-readme-stats-javascription.vercel.app/api?username=javascription&show_icons=true&theme=gruvbox&include_all_commits=true&rank_icon=github&bg_color=00000000&card_width=560" alt="javascription" /></p>  
 <p align="center"><img src="https://profile-readme-stats-javascription.vercel.app/api/top-langs/?username=javascription&theme=gruvbox&layout=compact&bg_color=00000000&card_width=560&" alt="javascription" /></p>  
-  
